@@ -1,5 +1,5 @@
 # iQuote
-This app creates overhead-crane inspection quotes for Axiom Hoist LLC.
+This app creates and emails overhead-crane inspection quotes for Axiom Hoist LLC.
 ## Dependencies
 - To build this app you must have [Flutter installed and setup](https://flutter.dev/docs/get-started/install).
 - If you are building for Android you will need [Android Studio](https://developer.android.com/studio).
