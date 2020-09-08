@@ -4,8 +4,7 @@ This app creates overhead-crane inspection quotes for Axiom Hoist LLC.
 - To build this app you must have [Flutter installed and setup](https://flutter.dev/docs/get-started/install).
 - If you are building for Android you will need [Android Studio](https://developer.android.com/studio).
 - If you are building for iOS you will need [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12).
-## Building
-### Building: Android
+## Building: Android
 1. Open this repository directory in a command terminal.
 2. `$ flutter clean apk`
 3. `$ flutter build apk`
@@ -13,7 +12,7 @@ This app creates overhead-crane inspection quotes for Axiom Hoist LLC.
 5. Connect an android phone to your computer.
 6. Copy the output apk from the Flutter build directory to the downloads directory of your phone.
 7. On the android phone navigate to your downloads folder and install the apk.
-### Building: iOS
+## Building: iOS
 1. On a mac, open this repository directory in a command terminal.
 2. `$ flutter clean ios`
 3. `$ flutter build ios`
