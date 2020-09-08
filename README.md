@@ -1,9 +1,9 @@
 # iQuote
 This app creates overhead-crane inspection quotes for Axiom Hoist LLC.
-
-## Setup
-1. Download this repository.
-2. `rm ios/Podfile
+## Dependencies
+- To build this app you must have [Flutter installed and setup](https://flutter.dev/docs/get-started/install).
+- If you are building for Android you will need [Android Studio](https://developer.android.com/studio).
+- If you are building for iOS you will need [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12).
 ## Building
 ### Android
 1. Open this repository directory in a command terminal.
@@ -21,7 +21,3 @@ This app creates overhead-crane inspection quotes for Axiom Hoist LLC.
 5. Open `ProjectDirectory/ios/Runner.xcworkspace` in Xcode.
 6. Select your iPhone in Xcode.
 7. Run the app in Xcode.
-## Dependencies
-- To build this app you must have [Flutter installed and setup](https://flutter.dev/docs/get-started/install).
-- If you are building for Android you will need [Android Studio](https://developer.android.com/studio).
-- If you are building for iOS you will need [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12).
